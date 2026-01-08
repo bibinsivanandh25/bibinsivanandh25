@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right" alt="Coding" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibinsivanandh25&label=Profile%20views&color=0e75b6&style=flat" alt="bibinsivanandh25" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=bibinsivanandh25](https://github.com/bibinsivanandh25)&label=Profile%20views&color=0e75b6&style=flat" alt="bibinsivanandh25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibinsivanandh25" alt="bibinsivanandh25" /></a> </p>
 
