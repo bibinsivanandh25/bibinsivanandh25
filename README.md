@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right" alt="Coding" />
 
+
+
 - 🌱 I’m currently learning **Gsap**
 
 - 👨‍💻 All of my projects are available at [https://bibin-portfolio.vercel.app/](https://bibin-portfolio.vercel.app/)
